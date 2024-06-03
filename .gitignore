@@ -1,0 +1,15 @@
+bin/
+obj/
+
+*.log
+*.exe
+*.dll
+
+# codeblocks
+*.depend
+*.layout
+
+# vscode
+/.vscode
+
+/win_makefile
